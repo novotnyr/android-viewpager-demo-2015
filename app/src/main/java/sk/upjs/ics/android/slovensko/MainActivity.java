@@ -6,14 +6,13 @@ import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 
-import static android.support.v7.app.ActionBar.NAVIGATION_MODE_TABS;
 
 public class MainActivity extends AppCompatActivity implements ActionBar.TabListener {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        getSupportActionBar().setNavigationMode(NAVIGATION_MODE_TABS);
+        getSupportActionBar().setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
         configureRegionListTab();
         configureCountyListTab();
     }
