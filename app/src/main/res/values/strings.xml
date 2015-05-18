@@ -3,4 +3,97 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string-array name="regionNames">
+        <item>Bratislavský</item>
+        <item>Trnavský</item>
+        <item>Trenčiansky</item>
+        <item>Nitriansky</item>
+        <item>Žilinský</item>
+        <item>Banskobystrický</item>
+        <item>Prešovský</item>
+        <item>Košický</item>
+    </string-array>
+
+    <string-array name="countyNames">
+        <item>Bánovce nad Bebravou</item>
+        <item>Banská Bystrica</item>
+        <item>Banská Štiavnica</item>
+        <item>Bardejov</item>
+        <item>Bratislava I</item>
+        <item>Bratislava II</item>
+        <item>Bratislava III</item>
+        <item>Bratislava IV</item>
+        <item>Bratislava V</item>
+        <item>Brezno</item>
+        <item>Bytča</item>
+        <item>Čadca</item>
+        <item>Detva</item>
+        <item>Dolný Kubín</item>
+        <item>Dunajská Streda</item>
+        <item>Galanta</item>
+        <item>Gelnica</item>
+        <item>Hlohovec</item>
+        <item>Humenné</item>
+        <item>Ilava</item>
+        <item>Kežmarok</item>
+        <item>Komárno</item>
+        <item>Košice I</item>
+        <item>Košice II</item>
+        <item>Košice III</item>
+        <item>Košice IV</item>
+        <item>Košice-okolie</item>
+        <item>Krupina</item>
+        <item>Kysucké Nové Mesto</item>
+        <item>Levice</item>
+        <item>Levoča</item>
+        <item>Liptovský Mikuláš</item>
+        <item>Lučenec</item>
+        <item>Malacky</item>
+        <item>Martin</item>
+        <item>Medzilaborce</item>
+        <item>Michalovce</item>
+        <item>Myjava</item>
+        <item>Námestovo</item>
+        <item>Nitra</item>
+        <item>Nové Mesto nad Váhom</item>
+        <item>Nové Zámky</item>
+        <item>Partizánske</item>
+        <item>Pezinok</item>
+        <item>Piešťany</item>
+        <item>Poltár</item>
+        <item>Poprad</item>
+        <item>Považská Bystrica</item>
+        <item>Prešov</item>
+        <item>Prievidza</item>
+        <item>Púchov</item>
+        <item>Revúca</item>
+        <item>Rimavská Sobota</item>
+        <item>Rožňava</item>
+        <item>Ružomberok</item>
+        <item>Sabinov</item>
+        <item>Senec</item>
+        <item>Senica</item>
+        <item>Skalica</item>
+        <item>Snina</item>
+        <item>Sobrance</item>
+        <item>Spišská Nová Ves</item>
+        <item>Stará Ľubovňa</item>
+        <item>Stropkov</item>
+        <item>Svidník</item>
+        <item>Šaľa</item>
+        <item>Topoľčany</item>
+        <item>Trebišov</item>
+        <item>Trenčín</item>
+        <item>Trnava</item>
+        <item>Turčianske Teplice</item>
+        <item>Tvrdošín</item>
+        <item>Veľký Krtíš</item>
+        <item>Vranov nad Topľou</item>
+        <item>Zlaté Moravce</item>
+        <item>Zvolen</item>
+        <item>Žarnovica</item>
+        <item>Žiar nad Hronom</item>
+        <item>Žilina</item>
+    </string-array>
+
 </resources>
