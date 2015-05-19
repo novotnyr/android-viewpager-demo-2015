@@ -95,5 +95,6 @@
         <item>Žiar nad Hronom</item>
         <item>Žilina</item>
     </string-array>
+    <string name="title_activity_region_browser">Kraje</string>
 
 </resources>
